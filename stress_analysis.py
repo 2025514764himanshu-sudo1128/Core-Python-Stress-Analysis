@@ -1,9 +1,6 @@
 import math
 
 # ============================================================
-# EXPERIMENT 1: Core Python Concepts for Stress Analysis
-# Subject: AI in Mechanical Engineering (ONT406)
-# Sharda University
 # ============================================================
 
 # -------------------------------------------------------
