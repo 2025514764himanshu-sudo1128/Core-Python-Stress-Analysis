@@ -1,8 +1,5 @@
 # Experiment 01: Core Python Concepts for Stress Analysis
 
-**Subject:** AI in Mechanical Engineering (ONT406)
-**Sharda University, Greater Noida**
-
 ---
 
 ## Aim
@@ -71,10 +68,10 @@ Note: `math` is a built-in Python library — no installation needed!
 
 ```bash
 # Clone the repository
-git clone https://github.com/2025514764himanshu-sudo1128/Exp01-Core-Python-Stress-Analysis.git
+git clone https://github.com/2025514764himanshu-sudo1128/Core-Python-Stress-Analysis.git
 
 # Navigate into folder
-cd Exp01-Core-Python-Stress-Analysis
+cd Core-Python-Stress-Analysis
 
 # Run the program
 python stress_analysis.py
